@@ -1,4 +1,4 @@
-#Buildship union classpath issue
+# Buildship union classpath issue
 
 We have a service bean (_MyService_) that is picked up by Spring's component scan in the classpath.
 
